@@ -156,13 +156,13 @@ python flightgearV3.py
 ---
 
 ## Reference Images
-Place images in `docs/images/` and reference them in this README.
+
 
 Suggested filenames:
 1. `docs/images/pca_workflow.png`
 2. `docs/images/system_architecture.png`
 
-Then they will render here:
+
 
 ![PCA Workflow](docs/images/pca_workflow.png)
 
