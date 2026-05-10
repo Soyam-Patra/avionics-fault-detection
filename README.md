@@ -158,10 +158,6 @@ python flightgearV3.py
 ## Reference Images
 
 
-Suggested filenames:
-1. `docs/images/pca_workflow.png`
-2. `docs/images/system_architecture.png`
-
 
 
 ![PCA Workflow](docs/images/pca_workflow.png)
@@ -169,4 +165,4 @@ Suggested filenames:
 ![System Architecture](docs/images/system_architecture.jpeg)
 
 If you share more reference photos, drop them into `docs/images/` and add them in this section the same way.
-
+   
